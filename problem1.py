@@ -6,7 +6,7 @@
 # Assumptions: There are two numbers that add up to the targeted number.
 # Thoughts: I need to scan though the list and find two numbers that will add up to the targeted number.
 
-# Good Inputs: 8 and 7 make 56
+# Good Inputs: 8 and 7 make 11
 # Bad Inputs: Negative number plus a positive number (-2 + 2 does not equal 4!)
 #Edge Cases: Negative number and bigger positive number (42 + -2 = 40)
 #
